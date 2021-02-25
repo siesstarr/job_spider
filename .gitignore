@@ -1,0 +1,3 @@
+.scrapy
+jobspider/__pycache__
+jobspider/spiders/__pycache__
