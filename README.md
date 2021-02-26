@@ -1,6 +1,9 @@
 # job_spider
 
-20210225 可用。
+- [x] 51job
+- [ ] lagou
+- [ ] boss
+- [ ] zhilian
 
 ```
 scrapy crawl 51job -o 51job.csv
